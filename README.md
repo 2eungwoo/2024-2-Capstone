@@ -1,2 +1,3 @@
 # 2024-2-Capstone
-from organization
+
+https://github.com/ajou-JSL
