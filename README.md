@@ -1,3 +1,3 @@
 # 2024-2-Capstone
 
-https://github.com/ajou-JSL
+[바로가기](https://github.com/ajou-JSL)
